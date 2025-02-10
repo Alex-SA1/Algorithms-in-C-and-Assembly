@@ -1,0 +1,11 @@
+# ignore all .o files 
+*.o
+
+# ignore all .json files
+*.json
+
+# ignore run.bat file
+selection_sort/run.bat
+
+# ignore program.exe file
+selection_sort/program.exe
