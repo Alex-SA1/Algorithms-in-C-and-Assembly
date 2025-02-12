@@ -68,7 +68,7 @@ segment code use32 class=code:
     .end_search:
         mov [esi + edx + 4], eax ; we move the current element on the right position (his position won't be changed if it is on the right position)
 
-        add edx, 4 ; we advance to the next element
+        add edi, 4 ; we advance to the next element
         loop .repeat
 
     .end_program:
