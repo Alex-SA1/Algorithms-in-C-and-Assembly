@@ -7,7 +7,9 @@
 # ignore run.bat file
 selection_sort/run.bat
 insertion_sort/run.bat
+bubble_sort/run.bat
 
 # ignore program.exe file
 selection_sort/program.exe
 insertion_sort/program.exe
+bubble_sort/program.exe
