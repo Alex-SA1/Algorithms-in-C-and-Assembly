@@ -32,12 +32,12 @@ segment code use32 class=code:
         je .end_program
 
     .repeat:
-        ; we assume that the arrays is sorted
+        ; we assume that the array is sorted
         mov bl, 1
 
         push ecx ; saving the length of the array
 
-        dec ecx ; we have to iterate over just (length - 1) elements because every element is compared with the one after
+        dec ecx ; we have to iterate over (length - 1) elements because every element is compared with the one after
         ; iterator
         mov edi, 0
     .compare:
