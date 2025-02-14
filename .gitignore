@@ -10,6 +10,7 @@ insertion_sort/run.bat
 bubble_sort/run.bat
 binary_search/run.bat
 fast_exponentiation/run.bat
+greatest_common_divisor/run.bat
 
 # ignore program.exe file
 selection_sort/program.exe
@@ -17,3 +18,4 @@ insertion_sort/program.exe
 bubble_sort/program.exe
 binary_search/program.exe
 fast_exponentiation/program.exe
+greatest_common_divisor/program.exe
