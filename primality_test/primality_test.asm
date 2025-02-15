@@ -17,7 +17,7 @@ segment code use32 class=code:
 
         ; the returned value of the function should be found in eax
         ; I will use eax to store the number for which we have to check the primality
-        ; and at the end of the function I'll update the eax with the value 1 or 0 (wheter x is prime or not)
+        ; and at the end of the function I'll update the eax with the value 1 or 0 (if x is prime or not)
 
         mov eax, [ebp + 8] ; the number for which we have to check the primality
 
