@@ -12,6 +12,7 @@ binary_search/run.bat
 fast_exponentiation/run.bat
 greatest_common_divisor/run.bat
 primality_test/run.bat
+merge_two_sorted_arrays/run.bat
 
 # ignore program.exe file
 selection_sort/program.exe
@@ -21,3 +22,4 @@ binary_search/program.exe
 fast_exponentiation/program.exe
 greatest_common_divisor/program.exe
 primality_test/program.exe
+merge_two_sorted_arrays/program.exe
